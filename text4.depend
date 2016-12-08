@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1480678884 source:e:\project\text\text4\text4\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<cstring>
+
